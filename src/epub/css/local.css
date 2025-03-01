@@ -45,6 +45,16 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 
+/* Sign */
+#chapter-10 blockquote{
+	text-align: center;
+}
+
+#chapter-10 blockquote b{
+	text-transform: uppercase;
+}
+/* End sign */
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
