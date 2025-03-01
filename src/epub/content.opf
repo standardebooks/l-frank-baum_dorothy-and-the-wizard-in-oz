@@ -78,12 +78,11 @@
 		<meta property="term" refines="#subject-16">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young girl and her companions fall into the earth, and travel through dangerous underground realms with the help of an old friend.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dorothy Gale, accompanied by her cat, Eureka, is travelling to visit Uncle Henry and some of her relatives in California, when she encounters her second cousin, Zeb. While en route in a buggy, a giant earthquake strikes, creating a large crevice, and Dorothy, Zeb, Eureka, and a cab-horse named Jim fall deep into the earth.&lt;/p&gt;
 			&lt;p&gt;While underground, they encounter the Wizard, who was last seen flying off in a ballon at the end of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz"&gt;The Wonderful Wizard of Oz&lt;/a&gt;&lt;/i&gt;. He and his ballon also gets swallowed up by an earthquake, and he becomes trapped like them. Dorothy and the Wizard, along with the rest of their companions, go on a perilous journey through various underground realms. They encounter a variety of strange creatures, such as the Mangaboos (a race of vegetables who live in a glass city), wooden gargoyles, invisible bears, and young dragonettes (which are depicted in the cover of this edition).&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;L. Frank Baum&lt;/a&gt; had wanted to write other stories, but he found that the Oz stories were the most successful. He began to write more of them, with this book coming out only a year after &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz"&gt;Ozma of Oz&lt;/a&gt;&lt;/i&gt;. He was attentive to his young fans, who wanted to hear "more about the Wizard," as he says in the Introduction. This book, which was published in 1908, was written around the time Baum moved to California. The Great San Francisco Earthquake, which had happened just two years earlier, likely influenced the opening of the story.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;L. Frank Baum&lt;/a&gt; had wanted to write other stories, but he found that the Oz stories were the most successful. He began to write more of them, with this book coming out only a year after &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz"&gt;Ozma of Oz&lt;/a&gt;&lt;/i&gt;. He was attentive to his young fans, who wanted to hear “more about the Wizard,” as he says in the Introduction. This book, which was published in 1908, was written around the time Baum moved to California. The Great San Francisco Earthquake, which had happened just two years earlier, likely influenced the opening of the story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/420</dc:source>
@@ -94,15 +93,14 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_dorothy-and-the-wizard-in-oz</meta>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
 		<meta property="file-as" refines="#author">Baum, L. Frank</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._Frank_Baum</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80110912.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80110912</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">John R. Neill</dc:contributor>
 		<meta property="file-as" refines="#artist">Neill, John R.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_R._Neill</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/rwo/agents/n83134215.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/rwo/agents/n83134215</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dennis Amundson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Amundson, Dennis</meta>
@@ -111,8 +109,8 @@
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">Devin O'Bannon</dc:contributor>
-		<meta property="file-as" refines="#producer-1">O'Bannon, Devin</meta>
+		<dc:contributor id="producer-1">Devin O’Bannon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">O’Bannon, Devin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
