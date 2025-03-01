@@ -78,6 +78,9 @@
 		<meta property="term" refines="#subject-16">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Oz</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A young girl and her companions fall into the earth, and travel through dangerous underground realms with the help of an old friend.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dorothy Gale, accompanied by her cat, Eureka, is travelling to visit Uncle Henry and some of her relatives in California, when she encounters her second cousin, Zeb. While en route in a buggy, a giant earthquake strikes, creating a large crevice, and Dorothy, Zeb, Eureka, and a cab-horse named Jim fall deep into the earth.&lt;/p&gt;
@@ -116,9 +119,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<dc:contributor id="producer-2">David Reimer</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
