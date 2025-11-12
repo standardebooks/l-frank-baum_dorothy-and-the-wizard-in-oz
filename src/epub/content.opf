@@ -117,10 +117,10 @@
 		<meta property="file-as" refines="#producer-1">O’Bannon, Devin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<dc:contributor id="producer-2">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
