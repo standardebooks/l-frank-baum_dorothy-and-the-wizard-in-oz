@@ -91,7 +91,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/420</dc:source>
 		<dc:source>https://archive.org/details/dorothywizardino00baum2</dc:source>
-		<meta property="se:word-count">42545</meta>
+		<meta property="se:word-count">41927</meta>
 		<meta property="se:reading-ease.flesch">79.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dorothy_and_the_Wizard_in_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_dorothy-and-the-wizard-in-oz</meta>
