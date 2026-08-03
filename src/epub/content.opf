@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz</dc:identifier>
 		<dc:date>2025-03-04T04:17:29Z</dc:date>
@@ -83,12 +83,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Oz</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A young girl and her companions travel through dangerous underground realms with the help of an old friend.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young girl and her companions travel through dangerous underground realms with the help of an old friend.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Dorothy Gale, accompanied by her cat, Eureka, is traveling to visit her Uncle Henry and her other relatives in California, when she encounters her second cousin, Zeb. While en route in a horse-drawn buggy, an earthquake strikes, creating a vast crevasse into which Dorothy, Zeb, Eureka, and a cab-horse named Jim fall.&lt;/p&gt;
 			&lt;p&gt;While underground, they encounter the Wizard, who was last seen flying off in a balloon at the end of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz"&gt;The Wonderful Wizard of Oz&lt;/a&gt;&lt;/i&gt;. He and his balloon were also swallowed up by an earthquake, trapping him just like Dorothy and friends. Dorothy, the Wizard, and the rest of their companions proceed to embark a perilous journey through the underground realms. They encounter a variety of strange creatures, like a race of vegetables who live in a glass city, wooden gargoyles, invisible bears, and young dragonettes.&lt;/p&gt;
 			&lt;p&gt;After the warm reception of the Oz books, &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;L. Frank Baum&lt;/a&gt; had wanted to move on to write about other subjects, but he found the success of the Oz stories irresistible. He began to write more of them, with this book being published only a year after the previous entry in the series, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz"&gt;Ozma of Oz&lt;/a&gt;&lt;/i&gt;. His fans wanted to hear “more about the Wizard,” as he says in the introduction, so he tried to be attentive to their request. This book, published in 1908, was written around the time Baum moved to California; the Great San Francisco Earthquake, which had happened just two years earlier, likely influenced the opening of the story.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/420</dc:source>
 		<dc:source>https://archive.org/details/dorothywizardino00baum2</dc:source>
